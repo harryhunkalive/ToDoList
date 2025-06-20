@@ -1,20 +1,20 @@
-🧠 Smart To-Do List Manager 📝
+#🧠 Smart To-Do List Manager 📝
 
 A colorful, interactive command-line **To-Do List Manager** built in Python using `colorama` and `csv`. Easily track, filter, search, and manage your tasks with due dates, priorities, and real-time status updates like **Overdue**, **Completed**, and **Pending**.
 
 
-✨ Features
+#✨ Features
 
 
-🚀 **Add** tasks with title, description, due date, and priority
-📅 **Automatically detects overdue** tasks
-✅ **Mark tasks as completed**
-🗑️ **Delete** tasks
-🔍 **Search** tasks by keywords
-🎯 **Filter** tasks (Pending, Completed, Due Today, High Priority, etc.)
-📊 **Dashboard** for quick stats and insights
-📤 **Export summary** report to `.txt` file
-📋 **Beautiful CLI UI** with color-coded output
+-🚀 **Add** tasks with title, description, due date, and priority
+-📅 **Automatically detects overdue** tasks
+-✅ **Mark tasks as completed**
+-🗑️ **Delete** tasks
+-🔍 **Search** tasks by keywords
+-🎯 **Filter** tasks (Pending, Completed, Due Today, High Priority, etc.)
+-📊 **Dashboard** for quick stats and insights
+-📤 **Export summary** report to `.txt` file
+-📋 **Beautiful CLI UI** with color-coded output
 
 ## Installation
 
