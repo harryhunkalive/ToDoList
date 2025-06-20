@@ -1,0 +1,36 @@
+TASK SUMMARY REPORT
+==================================================
+Report generated on: 2025-06-21 00:08:11
+
+STATISTICS:
+Total Tasks: 6
+Pending: 4
+Completed: 2
+Overdue: 0
+
+
+HIGH PRIORITY TASKS:
+--------------------------------------------------
+[Pending]       project1                       Due: 2025-07-20
+                Description: AI
+[Completed]     project3                       Due: 2025-06-21
+                Description: genai
+
+MEDIUM PRIORITY TASKS:
+--------------------------------------------------
+[Pending]       project2                       Due: 2025-07-20
+                Description: ML
+[Pending]       1                              Due: 2025-06-22
+                Description: project120
+
+LOW PRIORITY TASKS:
+--------------------------------------------------
+[Pending]       task1                          Due: 2025-10-10
+                Description: task
+[Completed]     projectx                       Due: 2025-06-30
+                Description: AIML
+
+
+UPCOMING TASKS (Next 7 days):
+--------------------------------------------------
+2025-06-22 - 1 [Medium]
